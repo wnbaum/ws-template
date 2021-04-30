@@ -34,4 +34,4 @@ const fs = `
 `;
 ```
 
-Changes will be made in the future to load the fragment shader from a file. Also dynamic canvas resizing would be desireable.
+Changes will be made in the future to load the fragment shader from a file. Also dynamic canvas resizing would be desirable.
