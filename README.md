@@ -12,7 +12,7 @@ This project utilizes nodemon, so whenever you save a file, the server will be r
 npm run dev
 ```
 
-To start the project normally, use:
+To start the server normally, use:
 ```
 npm start
 ```
