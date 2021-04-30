@@ -7,6 +7,16 @@ git clone https://github.com/wnbaum/fragment-shader-template
 npm install
 ```
 
+This project utilizes nodemon, so whenever you save a file, the server will be restarted as long as you run the server with the command:
+```
+npm run dev
+```
+
+To start the project normally, use:
+```
+npm start
+```
+
 To edit the fragment shader, edit the following GLSL found in the file `public/js/webgl-canvas.js`
 ```javascript
 const fs = `
