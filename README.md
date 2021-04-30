@@ -1,7 +1,7 @@
 # fragment-shader-template
 This is a node.js fullscreen WebGL fragment shader template.
 
-CLI setup is:
+CLI setup:
 ```
 git clone https://github.com/wnbaum/fragment-shader-template
 npm install
