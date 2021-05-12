@@ -1,4 +1,4 @@
-# fragment-shader-template
+# ws-template
 This is a node.js socket.io websocket server template.
 
 CLI setup:
