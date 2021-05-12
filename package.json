@@ -1,15 +1,16 @@
 {
-    "name": "frag-shader-template",
+    "name": "ws-template",
     "version": "1.0.0",
-    "description": "WebGL Fragment Shader Template",
-    "main": "index.js",
+    "description": "Socket.io Websocket Server Template",
+    "main": "server.js",
     "scripts": {
         "start": "node server.js",
         "dev": "nodemon server.js"
     },
     "author": "Will Baumgartner",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "socket.io": "^4.1.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.7"
