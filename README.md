@@ -4,6 +4,7 @@ This is a node.js socket.io websocket server template.
 CLI setup:
 ```
 git clone https://github.com/wnbaum/ws-template
+cd ws-template
 npm install
 ```
 
